@@ -1,0 +1,9 @@
+{
+  "name": "kapena",
+  "private": "true",
+  "devDependencies": {
+    "jquery": "*",
+    "modular-scale": "*",
+    "normalize-scss": "~3.0.3"
+  }
+}

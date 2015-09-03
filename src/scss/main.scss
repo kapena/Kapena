@@ -1,0 +1,16 @@
+// Don't fill this with code it should only contain imports
+
+// VARIABLES
+@import "variables";
+
+// LIBRARIES
+@import "bower_components/normalize-scss/normalize";
+@import "bower_components/modular-scale/stylesheets/modular-scale";
+
+// PARTIALS
+@import "partials/body";
+
+// PAGES
+@import "pages/home";
+@import "pages/about";
+@import "pages/contact";

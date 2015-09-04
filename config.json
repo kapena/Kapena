@@ -1,0 +1,22 @@
+{
+    "paths": {
+        "source": {
+            "styles": "src/scss/main.scss",
+            "js": [ 
+                "bower_components/jquery/dist/jquery.js",
+                "src/js/pages/*.js",
+                "src/js/main.js"
+            ]
+        },
+        "destination": {
+            "styles": "www/css",
+            "js": "www/js",
+            "html": "www"
+        },
+        "watch": {
+            "styles": "src/scss/**/*.scss",
+            "js":"src/js/**/*.js",
+            "html": "www/**/*.html"
+        }
+    }
+}
